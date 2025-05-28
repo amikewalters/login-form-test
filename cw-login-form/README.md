@@ -1,8 +1,10 @@
-==Setup==
+#Setup
+
 * Update Postgres connection details in config.json
 * Update "secret" in config.json to a new unique alphanumeric string
 
-==Getting Started==
+#=Getting Started
+
 Be in this project sub-folder (where package.json is located) and:
 * Start on a new command line (window)
 * On command line run: `npm install` to install node modules
