@@ -1,0 +1,10 @@
+﻿{
+    "database": {
+        "host": "localhost",
+        "port": 5432,
+        "user": "cw_database_user",
+        "password": "cw_database_user",
+        "database": "cw_database"
+    },
+    "secret": "n8hhuxa26iw60jgkzwtg5vxfuwhfsw3l"
+}
