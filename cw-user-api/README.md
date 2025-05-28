@@ -1,9 +1,9 @@
-#Setup
+# Setup
 
 * Update Postgres connection details in config.json
 * Update "secret" in config.json to a new unique alphanumeric string
 
-#Getting Started
+# Getting Started
 
 Be in this project sub-folder (where package.json is located) and:
 * Start on a new command line (window)
@@ -14,11 +14,11 @@ There is no User Interface for this project.
 
 Database Tables and Schema will be added if not existing, if existing they are not emptied.
 
-#Testing Activation==
+# Testing Activation
 
 This project can be tested with a 3rd party software to produce and return results.
 
-##Registration
+## Registration
 
 In Postman:
 * Create a new request tab (hit the plug button)
@@ -36,7 +36,7 @@ In Postman:
 
 You should receive a '200 OK' response as a success message
 
-##Authentication
+## Authentication
 
 In Postman:
 * Create a new request tab (hit the plug button)
